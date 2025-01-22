@@ -4,12 +4,6 @@
 
 
 
-- Download:
-
-  https://github.com/LandGrey/copagent/raw/release/cop.jar
-
-
-
 - Usage:
 
   ```
